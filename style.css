@@ -1,0 +1,75 @@
+* {
+ margin: 0;
+ padding: 0;
+ 
+
+}
+
+
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.parentmenu{
+    background-color: rgb(30, 9, 9);
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+
+
+.Small-Box1{
+    background-color: rgb(222, 11, 11);
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(236, 25, 25);
+    border: 1px solid blackl;
+
+}
+
+
+.Small-Box2{
+    background-color: rgb(11, 169, 222);
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(236, 25, 25);
+    border: 1px solid blackl;
+}
+
+
+.Small-Box3{
+    background-color: rgb(124, 11, 222);
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(236, 25, 25);
+    border: 1px solid blackl;
+}
+
+
+.Small-Box4{
+    background-color: rgb(11, 222, 57);
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(236, 25, 25);
+    border: 1px solid blackl;
+}
+
+
+
+.Small-Box5{
+    background-color: rgb(190, 222, 11);
+    height: 50px;
+    width: 50px;
+    border: 1px solid rgb(236, 25, 25);
+    border: 1px solid blackl;
+}
